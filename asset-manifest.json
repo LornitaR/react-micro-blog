@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.12ae45e2.chunk.css",
-    "main.js": "/static/js/main.b87134b2.chunk.js",
-    "main.js.map": "/static/js/main.b87134b2.chunk.js.map",
+    "main.js": "/static/js/main.b6be8d2d.chunk.js",
+    "main.js.map": "/static/js/main.b6be8d2d.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.fdf0b82f.js",
     "runtime~main.js.map": "/static/js/runtime~main.fdf0b82f.js.map",
     "static/js/2.377172af.chunk.js": "/static/js/2.377172af.chunk.js",
     "static/js/2.377172af.chunk.js.map": "/static/js/2.377172af.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d528ce9c48f919b7746c1aa7a6438989.js": "/precache-manifest.d528ce9c48f919b7746c1aa7a6438989.js",
+    "precache-manifest.a9907b84311f33e7a922f44cdd3e51cb.js": "/precache-manifest.a9907b84311f33e7a922f44cdd3e51cb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.12ae45e2.chunk.css.map": "/static/css/main.12ae45e2.chunk.css.map",
     "static/media/lornitar.jpg": "/static/media/lornitar.c23f07fe.jpg"

@@ -1,21 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito|Poppins:500|Open+Sans');
 @import "~bootstrap/scss/bootstrap";
 
+$primary: #ffcdd2;
+$primary-light: #ffffff;
+$primary-dark: #cb9ca1;
+$secondary: #e8f5e9;
+$secondary-light: #ffffff;
+$secondary-dark: #b6c2b7;
+
+
 body, html {
   height: 100%;
-  background-color: rgba(0,0,0,.018);
+  background-color: $secondary;
   color: rgba(0,0,0,.75);
   font-family: 'Nunito';
 }
 
 header {
   text-align: center;
-  background-color: aquamarine;
+  background-color: $primary;
   height: 8rem;
 }
 
 footer {
-  background-color: purple;
+  background-color: $primary;
   text-align: center;
 }
 
@@ -33,6 +41,7 @@ footer {
   padding: 0rem 2rem 0rem 2rem;
   border-style: solid;
   border-width: 0.01rem;
-  border-color: gainsboro;
+  border-color: $secondary-dark;
+  background-color: $primary-light;
   min-width: 40rem;
 }

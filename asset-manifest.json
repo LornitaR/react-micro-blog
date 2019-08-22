@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LornitaR/LornitaR.github.io/static/css/main.12ae45e2.chunk.css",
-    "main.js": "/LornitaR/LornitaR.github.io/static/js/main.b87134b2.chunk.js",
-    "main.js.map": "/LornitaR/LornitaR.github.io/static/js/main.b87134b2.chunk.js.map",
-    "runtime~main.js": "/LornitaR/LornitaR.github.io/static/js/runtime~main.ab9790a3.js",
-    "runtime~main.js.map": "/LornitaR/LornitaR.github.io/static/js/runtime~main.ab9790a3.js.map",
-    "static/js/2.377172af.chunk.js": "/LornitaR/LornitaR.github.io/static/js/2.377172af.chunk.js",
-    "static/js/2.377172af.chunk.js.map": "/LornitaR/LornitaR.github.io/static/js/2.377172af.chunk.js.map",
-    "index.html": "/LornitaR/LornitaR.github.io/index.html",
-    "precache-manifest.41fc7d1314a8358e4e21807ae239e010.js": "/LornitaR/LornitaR.github.io/precache-manifest.41fc7d1314a8358e4e21807ae239e010.js",
-    "service-worker.js": "/LornitaR/LornitaR.github.io/service-worker.js",
-    "static/css/main.12ae45e2.chunk.css.map": "/LornitaR/LornitaR.github.io/static/css/main.12ae45e2.chunk.css.map",
-    "static/media/lornitar.jpg": "/LornitaR/LornitaR.github.io/static/media/lornitar.c23f07fe.jpg"
+    "main.css": "/static/css/main.12ae45e2.chunk.css",
+    "main.js": "/static/js/main.b87134b2.chunk.js",
+    "main.js.map": "/static/js/main.b87134b2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.fdf0b82f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.fdf0b82f.js.map",
+    "static/js/2.377172af.chunk.js": "/static/js/2.377172af.chunk.js",
+    "static/js/2.377172af.chunk.js.map": "/static/js/2.377172af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d528ce9c48f919b7746c1aa7a6438989.js": "/precache-manifest.d528ce9c48f919b7746c1aa7a6438989.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.12ae45e2.chunk.css.map": "/static/css/main.12ae45e2.chunk.css.map",
+    "static/media/lornitar.jpg": "/static/media/lornitar.c23f07fe.jpg"
   }
 }
